@@ -1,3 +1,5 @@
+# Entendendo o código
+
 Este código é um analisador léxico, deixo aqui uma explicação sobre o código:
 
 1. Importação de bibliotecas e definição de listas de tokens:
