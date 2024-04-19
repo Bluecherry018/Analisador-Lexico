@@ -17,13 +17,21 @@ Python3 trabalho1.py <arquivo_de_entrada> <arquivo_de_saida>
 O analisador léxico reconhece os seguintes elementos da linguagem LA:
 
 Palavras-chave: como "algoritmo", "declare", "real", "inteiro", "se", "senao", entre outras.
+
 Operadores aritméticos: "+", "-", "*", "/", "%".
+
 Operadores relacionais: "<", ">", "=", "<-", "<>", "!=", "<=", ">=", "==".
+
 Operadores de memória: "&", "^".
+
 Delimitadores: ":", ";", ",", "(", ")", "[", "]", "/", "..", "^", "&".
+
 Identificadores: sequências de caracteres alfanuméricos começando com uma letra ou sublinhado.
+
 Números inteiros: sequências de dígitos.
+
 Números reais: sequências de dígitos com um ponto decimal.
+
 Cadeias de caracteres: sequências de caracteres entre aspas duplas.
 
 ## Saída
