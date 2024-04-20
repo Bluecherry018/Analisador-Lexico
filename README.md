@@ -1,5 +1,7 @@
 # Analisador Léxico da Linguagem Algorítmica (LA)
 
+Alexandra Floriano - 761771
+
 Este é um analisador léxico simples para a linguagem Algorítmica (LA). Ele é capaz de analisar um arquivo-fonte escrito em LA e identificar os tokens presentes no código, como palavras-chave, identificadores, números, cadeias de caracteres, operadores aritméticos, operadores relacionais, operadores de memória e delimitadores.
 
 ## Pré-requisitos
