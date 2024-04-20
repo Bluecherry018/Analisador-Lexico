@@ -5,7 +5,7 @@ Este código é um analisador léxico, deixo aqui uma explicação sobre o códi
 1. Importação de bibliotecas e definição de listas de tokens:
    
 * O código começa importando a biblioteca re para trabalhar com expressões regulares, que serão usadas para identificar padrões no código fonte.
-* Em seguida, são definidas três listas de tokens: PALAVRAS_CHAVE, OP_ARITMETICOS e DELIMITADORES, que contêm as palavras-chave, operadores aritméticos, operadores relacionais e delimitadores reconhecidos pela linguagem.
+* Em seguida, são definidas cinco listas de tokens: PALAVRAS_CHAVE, OP_ARITMETICOS, OP_RELACIONAIS, OP_MEMORIA  e DELIMITADORES, que contêm as palavras-chave, operadores aritméticos, operadores relacionais, operadores de memoria e delimitadores reconhecidos pela linguagem.
   
 2.Expressões regulares:
 
