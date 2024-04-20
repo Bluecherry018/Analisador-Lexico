@@ -9,7 +9,7 @@ Este código é um analisador léxico, deixo aqui uma explicação sobre o códi
   
 2.Expressões regulares:
 
-* São definidas expressões regulares para identificar cadeias de caracteres entre aspas (PADRAO_CADEIA), números reais (PADRAO_REAL), números inteiros (PADRAO_INTEIRO), identificadores (PADRAO_IDENTIFICADOR) e simbolos não identificados(SIMBOLO_NAO_IDENTIFICADO).
+* São definidas expressões regulares para identificar cadeias de caracteres entre aspas (PADRAO_CADEIA), números reais (PADRAO_REAL), números inteiros (PADRAO_INTEIRO) e identificadores (PADRAO_IDENTIFICADOR).
 
 3.Classe Token:
 
